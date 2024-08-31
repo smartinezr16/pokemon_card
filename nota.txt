@@ -1,0 +1,4 @@
+Excelente trabajo, buen uso de HTML y CSS
+Muy buen uso de variables en css, recuerda trabajar un poco mas en la maquetacion con flex o grid
+
+Nota: 5
